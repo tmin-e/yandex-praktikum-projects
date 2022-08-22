@@ -22,7 +22,7 @@ _Из открытых источников доступны историчес�
 ##  Анализ пользовательского поведения в мобильном приложении  
 ### Файлы проекта: 
 - [Основная информация](https://github.com/tmin-e/yandex-praktikum-projects/edit/main/prefabricated_project2/README.md) 
-- [prefabricated_project2.ipynb - Посмотреть проект](https://github.com/tmin-e/yandex-praktikum-projects/blob/main/prefabricated_project2.ipynb)   
+- [prefabricated_project2.ipynb - Посмотреть проект](https://github.com/tmin-e/yandex-praktikum-projects/blob/main/prefabricated_project2/prefabricated_project2.ipynb)
 
 ### Библиотеки: 
    <p align="left">
@@ -45,7 +45,7 @@ _Нам доступны данные из стартапа, который пр
 ##  Анализ поведения игроков в зависимости от источника перехода  
 ### Файлы проекта:  
 - [Основная информация](https://github.com/tmin-e/yandex-praktikum-projects/edit/main/final_project/README.md)  
-- [final_project .ipynb - Посмотреть через nbviewer.jupyter.org](https://nbviewer.org/github/tmin-e/yandex-praktikum-projects/blob/main/final_project%20.ipynb)  
+- [final_project .ipynb](https://github.com/tmin-e/yandex-praktikum-projects/blob/main/final_project/final_project%20.ipynb)  
 - [Посмотреть презентацию к проекту](https://disk.yandex.ru/i/CaoXwolEEPt-gg)   
 - [Ссылка на дашборд](https://public.tableau.com/app/profile/tatiana1692/viz/TMinko_project_final/Dashboard1?publish=yes)  
 
