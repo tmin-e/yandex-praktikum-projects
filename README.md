@@ -64,3 +64,22 @@ _Нам доступны данные из стартапа, который пр
 _Основной датасет содержит данные о событиях, совершенных в мобильной игре «Космические братья». В ней пользователи строят свою космическую программу. В датасете содержатся данные первых пользователей приложения — когорты пользователей, которые начали пользоваться приложением в период с 4 по 10 мая включительно. Помимо основного датасета есть два датасета с информацией о рекламных активностях._   
 
 **Источник данных** - Яндекс.Практикум  
+
+***
+## Анализ убытков приложения Procrastinate PRO+  
+### Файлы проекта:  
+- [Основная информация](https://github.com/tmin-e/yandex-praktikum-projects/blob/main/application_loss_analysis/README.md)  
+- [application_loss_analysis.ipynb](https://github.com/tmin-e/yandex-praktikum-projects/blob/main/application_loss_analysis/application_loss_analysis.ipynb)    
+
+### Библиотеки: 
+   <p align="left">
+   <img src="https://img.shields.io/badge/library-pandas-brightgreen" alt="Pandas">
+   <img src="https://img.shields.io/badge/library-numpy-blueviolet" alt="Numpy">
+   <img src="https://img.shields.io/badge/library-seaborn-yellow" alt="Seaborn">
+  <img src="https://img.shields.io/badge/library-datetime-red" alt="Datetime">
+</p>   
+
+### Описание проекта:   
+_У нас в распоряжении есть лог сервера с данными о посещениях приложения новыми пользователями, зарегистрировавшимися в период с 2019-05-01 по 2019-10-27, выгрузка их покупок за этот период, а также статистика рекламных расходов. Нам предстоит изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается и какие факторы отричательно влияют на привлечение пользователей._   
+
+**Источник данных** - Яндекс.Практикум  
